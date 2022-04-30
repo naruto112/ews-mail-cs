@@ -41,7 +41,6 @@ namespace EWS
                     }
                 }
 
-                
                 message.IsRead = true;
                 message.Update(ConflictResolutionMode.AlwaysOverwrite);
 
