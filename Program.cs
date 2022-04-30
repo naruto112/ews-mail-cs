@@ -10,7 +10,7 @@ namespace EWS
             Console.WriteLine("Iniciado o EWS...");
 
             ExchangeService service = new ExchangeService(ExchangeVersion.Exchange2013_SP1);
-            service.Credentials = new WebCredentials("mche20091990@outlook.com", "!14#38#7");
+            service.Credentials = new WebCredentials("email0@outlook.com", "password");
             service.Url = new Uri("https://outlook.office365.com/EWS/Exchange.asmx");
 
             Mailbox mb = new Mailbox("mche20091990@outlook.com");
