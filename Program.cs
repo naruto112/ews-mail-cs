@@ -21,7 +21,6 @@ namespace EWS
             ItemView view = new ItemView(100);
 
             FindItemsResults<Item> findResults = service.FindItems(WellKnownFolderName.Inbox, sf, view);
-            
 
             foreach (var item in findResults)
             {
