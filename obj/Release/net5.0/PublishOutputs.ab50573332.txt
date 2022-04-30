@@ -1,0 +1,6 @@
+/Users/renato.dev/Desktop/HD Dev2/Estudo/EWS/bin/Release/net5.0/publish/EWS.dll
+/Users/renato.dev/Desktop/HD Dev2/Estudo/EWS/bin/Release/net5.0/publish/EWS.deps.json
+/Users/renato.dev/Desktop/HD Dev2/Estudo/EWS/bin/Release/net5.0/publish/EWS.runtimeconfig.json
+/Users/renato.dev/Desktop/HD Dev2/Estudo/EWS/bin/Release/net5.0/publish/EWS.pdb
+/Users/renato.dev/Desktop/HD Dev2/Estudo/EWS/bin/Release/net5.0/publish/Microsoft.Exchange.WebServices.Auth.dll
+/Users/renato.dev/Desktop/HD Dev2/Estudo/EWS/bin/Release/net5.0/publish/Microsoft.Exchange.WebServices.dll

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQpH95GFnK5rXo+0aUeCvC0e/gxdrah8YBfkTi/IdVYsdKnwg8ifTcJnJ4cN5akx+XYvpLp4utmRPJyruUY2fg==",
+  "success": true,
+  "projectFilePath": "/Users/renato.dev/Desktop/HD Dev2/Estudo/EWS/EWS.csproj",
+  "expectedPackageFiles": [
+    "/Users/renato.dev/.nuget/packages/microsoft.exchange.webservices/2.2.0/microsoft.exchange.webservices.2.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Exchange.WebServices 2.2.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.Exchange.WebServices",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
